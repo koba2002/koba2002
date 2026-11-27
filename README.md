@@ -7,6 +7,7 @@ I study computer science at SDU in Vejle, and I'm originally from Perugia, Italy
 I build small tools and automations that take repetitive work off people's hands.
 
 Right now I work part-time for [Beamide](https://www.beamide.com), a radiation-testing company, where I automated how sales offers get made and sent.
+I'm also a volunteer and webmaster at [ESN Perugia](https://perugia.esn.it/).
 
 #### What I work with
 
