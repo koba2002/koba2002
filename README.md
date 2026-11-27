@@ -12,8 +12,8 @@ I'm also a volunteer and webmaster at [ESN Perugia](https://perugia.esn.it/).
 #### What I work with
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,py,bash,linux,docker,git,latex,arduino,html,css&theme=dark">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,linux,docker,git,latex,arduino,html,css&theme=light" alt="C, C++, Python, Bash, Linux, Docker, Git, LaTeX, Arduino, HTML, CSS">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cpy%2Cbash%2Clinux%2Cdocker%2Cgit%2Clatex%2Carduino%2Chtml%2Ccss&theme=dark">
+  <img src="https://skillicons.dev/icons?i=c%2Ccpp%2Cpy%2Cbash%2Clinux%2Cdocker%2Cgit%2Clatex%2Carduino%2Chtml%2Ccss&theme=light" alt="C, C++, Python, Bash, Linux, Docker, Git, LaTeX, Arduino, HTML, CSS">
 </picture>
 
 <br>
